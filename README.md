@@ -2,6 +2,8 @@
 
 Go Movies is a modern web application built with React that allows users to search and browse movies using The Movie Database (TMDB) API. It features a responsive UI, search with debounce, smooth pagination, and elegant loading and error states.
 
+🔗 **Live Demo:** [go-movies-chi.vercel.app](https://go-movies-chi.vercel.app/)
+
 ## 🚀 Features
 
 - 🔍 **Search Movies** in real-time with debounce to minimize API calls
